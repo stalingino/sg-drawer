@@ -1,0 +1,13 @@
+{
+  "name": "angular-sg-drawer",
+  "version": "0.0.0",
+  "main": "sgdrawer.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "angular": "~1.5.0"
+  }
+}
