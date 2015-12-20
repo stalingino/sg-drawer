@@ -9,6 +9,6 @@
 
 ```html
 ...
-<sg-drawer side="'left'" open="open" fixed="false" duration="300" padding="250" template-url="modules/app/views/ir-drawer-menu.html"></sg-drawer>
+<sg-drawer side="'left'" open="open" fixed="false" duration="300" padding="250" template-url="modules/app/views/sg-sample-drawer-menu.html"></sg-drawer>
 ...
 ```
