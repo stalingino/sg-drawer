@@ -1,4 +1,7 @@
 # sg-drawer
+
+Curretly left side works. Under development
+
 ```html
 <link rel="stylesheet" type="text/css" href="css/sgdrawer.css">
 ```
